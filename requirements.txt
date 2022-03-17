@@ -1,0 +1,3 @@
+Gooey
+pyinstaller
+PyQt5
